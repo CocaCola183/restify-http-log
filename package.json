@@ -1,0 +1,27 @@
+{
+  "name": "restify-http-log",
+  "version": "0.0.0",
+  "description": "Restify http log for self use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CocaCola183/restify-http-log.git"
+  },
+  "keywords": [
+    "restify",
+    "http",
+    "log"
+  ],
+  "author": "blackwhite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CocaCola183/restify-http-log/issues"
+  },
+  "homepage": "https://github.com/CocaCola183/restify-http-log#readme",
+  "dependencies": {
+    "color-journal": "0.0.1"
+  }
+}
