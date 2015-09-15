@@ -1,6 +1,6 @@
 {
   "name": "restify-http-log",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Restify http log for self use.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/CocaCola183/restify-http-log#readme",
   "dependencies": {
+    "assert-plus": "^0.1.5",
     "color-journal": "0.0.1"
   }
 }
